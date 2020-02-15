@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "rssr": {
+      "commandName": "Project"
+    },
+    "rssr HELP": {
+      "commandName": "Project",
+      "commandLineArgs": "--about"
+    },
+    "rssr Clyde1 for 2 mins to /tmp": {
+      "commandName": "Project",
+      "commandLineArgs": "http://tx.planetradio.co.uk/icecast.php?i=clyde1.mp3 /tmp -r 120 -b gbx_clyde1 -x mp3"
+    },
+    "rssr Clyde1 for 2 mins to /tmp VERBOSE": {
+      "commandName": "Project",
+      "commandLineArgs": "http://tx.planetradio.co.uk/icecast.php?i=clyde1.mp3 /tmp -r 120 -b gbx_clyde1 -x mp3 -v"
+    }
+  }
+}

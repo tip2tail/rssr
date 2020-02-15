@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="linux-build" type="DotNetFolderPublish" factoryName="Publish to folder">
+    <riderPublish runtime="linux-x64" self_contained="true" target_folder="$PROJECT_DIR$/published/linux" target_framework="netcoreapp3.1" uuid_high="1216793685994917529" uuid_low="-6836701314806135331" />
+    <method v="2" />
+  </configuration>
+</component>
